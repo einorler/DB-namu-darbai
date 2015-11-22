@@ -1,0 +1,9 @@
+
+
+Apibendrinant galima teigti, kad kur kas patogiau naudotis DDD metodu, nes 
+AciveRecord reikalauja kurti naują connection metodą kiekvienam sukurtam 
+objektui. DDD taip pat yra kur kas patogesnis būdas programuoti dėl savo 
+logikos, kai entičiai ir logika yra atskiriami. Kai viskas yra suplakama į
+nukenčia ne tik aiškumas, bet ir greitis, nes dažnai reikia daryti nereika-
+lingas užklausas į duomenų bazę.
+Iš šių dviejų metodų kur kas priimtinesnis ir patrauklesnis yra DDD.
